@@ -1,0 +1,12 @@
+{
+  "name": "base-component",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": ["Web component", "Base"],
+  "author": "LevineLito",
+  "license": "MIT"
+}
