@@ -1,0 +1,17 @@
+{
+  "name": "@levinelito/pagination",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "Web component",
+    "Pagination"
+  ],
+  "author": "levinelito",
+  "license": "MIT",
+  "dependencies": {
+    "@levinelito/base-component": "^0.0.1",
+    "@levinelito/create-html-element": "^1.0.1"
+  }
+}
